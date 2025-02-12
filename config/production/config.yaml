@@ -2,6 +2,11 @@
 
 baseURL: https://pierremoinet-site.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: 7829abd6-f69d-4e71-a113-316f2a8aca2f
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
